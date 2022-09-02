@@ -3,5 +3,3 @@
 
 Add required nuget packages <br>
 In appsetting.json file add your database connection string
-
--dotnet restore
