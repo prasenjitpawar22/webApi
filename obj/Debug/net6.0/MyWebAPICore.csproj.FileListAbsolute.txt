@@ -1,0 +1,70 @@
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\appsettings.json
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\MyWebAPICore.exe
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\MyWebAPICore.deps.json
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\MyWebAPICore.runtimeconfig.json
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\MyWebAPICore.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\MyWebAPICore.pdb
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.csproj.AssemblyReference.cache
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.AssemblyInfoInputs.cache
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.AssemblyInfo.cs
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.csproj.CoreCompileInputs.cache
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\scopedcss\bundle\MyWebAPICore.styles.css
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.csproj.CopyComplete
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\refint\MyWebAPICore.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.pdb
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.genruntimeconfig.cache
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\obj\Debug\net6.0\ref\MyWebAPICore.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Npgsql.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\praspawa\Documents\.Net\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\appsettings.Development.json
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\appsettings.json
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\MyWebAPICore.exe
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\MyWebAPICore.deps.json
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\MyWebAPICore.runtimeconfig.json
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\MyWebAPICore.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\MyWebAPICore.pdb
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Humanizer.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Npgsql.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.csproj.AssemblyReference.cache
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.AssemblyInfoInputs.cache
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.AssemblyInfo.cs
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.csproj.CoreCompileInputs.cache
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\scopedcss\bundle\MyWebAPICore.styles.css
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.csproj.CopyComplete
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\refint\MyWebAPICore.dll
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.pdb
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\MyWebAPICore.genruntimeconfig.cache
+D:\projects\.Net core\WebApi\MyWebAPICore\obj\Debug\net6.0\ref\MyWebAPICore.dll
